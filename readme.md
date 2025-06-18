@@ -11,7 +11,9 @@ An interactive Dash-based web application for performing statistical hypothesis 
 ├── country_wise_latest.csv # Dataset used in the app
 ├── README.md # Project documentation
 
-
+---
+### For Theoretical Explaination visit my blog
+[Understanding Statistical Analysis: Key Tests Explained with Math, Use Cases & When to Apply](https://medium.com/@pranav10srinivas/understanding-statistical-analysis-key-tests-explained-with-math-use-cases-when-to-apply-7cc84efb7346)
 ---
 
 ## 🚀 Features
